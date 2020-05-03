@@ -1,7 +1,7 @@
 # MNIST_PCA_SVM
 A classifier to predict the label of a given digit using PCA and SVM
 
-This kernel aims at building a classifier to predict the label of a given digit using PCA and SVM
+This kernel aims at building a classifier to predict the label of a handwritten digits using PCA and SVM
 
 <b>Dataset</b>
 
