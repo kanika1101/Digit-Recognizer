@@ -1,5 +1,5 @@
 # Digit Recognizer using PCA and SVM
-A classifier to predict the label of a given digit using PCA and SVM
+A classifier to predict the a given handwritten digit using PCA and SVM
 
 This kernel aims at building a classifier to predict the label of a handwritten digits using PCA and SVM
 
